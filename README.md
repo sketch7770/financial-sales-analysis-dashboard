@@ -66,6 +66,7 @@ Dashboard Screenshots
 README Documentation
 
 Dashboard Preview:
+<img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/5115cb82-8456-4269-a12d-6a6b3ac69197" />
 
 
 
