@@ -1,0 +1,225 @@
+1. Sales Performance Analysis
+
+Questions:
+
+Which regions generate highest sales?
+Which cities dominate revenue?
+Monthly sales trend?
+🔹 2. Profitability Analysis
+
+Questions:
+
+Which categories are most profitable?
+Which products create losses?
+Does high discount reduce profit?
+
+This is VERY important.
+
+🔹 3. Customer Segment Analysis
+
+Questions:
+
+Which segment buys most?
+Which segment is most profitable?
+Consumer vs Corporate comparison?
+🔹 4. Product Performance Analysis
+
+Questions:
+
+Top-selling products?
+Loss-making products?
+High sales but low profit products?
+
+VERY strong business insight area.
+
+🔹 5. Shipping Analysis
+
+Questions:
+
+Which shipping mode is most used?
+Does faster shipping improve sales?
+Does shipping mode affect profitability?
+
+
+Tell me about your project.
+✅ Answer
+
+“I built a Sales, Profit & Customer Segment Analysis Dashboard using Excel and Power BI to analyze business performance across regions, customer segments, product categories, monthly sales trends, and discount impact on profitability.
+
+The goal of the project was to identify:
+
+profitable categories,
+high-performing states,
+customer buying behavior,
+seasonal sales trends,
+and the impact of discounts on profit.
+
+I used Excel for data cleaning and feature creation, and Power BI for interactive dashboard visualization and business insights.”
+
+2. Why did you choose this project?
+✅ Answer
+
+“I chose this project because sales and profitability analysis is one of the most common real-world business problems. Companies need to understand which products, regions, and customer segments generate profit and which areas are causing losses.”
+
+3. What cleaning did you perform?
+✅ Answer
+
+“I checked for:
+
+duplicate records,
+blank values,
+incorrect data types,
+and inconsistent formatting.
+
+I converted:
+
+sales,
+profit,
+and discount columns into proper numeric formats,
+and converted dates into proper date format.
+
+I also created additional columns like:
+
+Profit Margin %,
+Month,
+and Discount Category
+for better analysis.”
+4. Why did you not remove negative profit rows?
+✅ Answer
+
+“Negative profit represents business losses, which is valuable information for analysis. Removing those rows would hide important business problems, especially while analyzing discount impact and unprofitable categories.”
+
+Excellent answer. Interviewers like this.
+
+5. What were the major insights you found?
+✅ Answer
+Main insights:
+California generated the highest sales and profit.
+Technology category had the highest profitability.
+Consumer segment contributed the highest sales.
+November and December showed peak sales trends.
+Higher discounts significantly reduced profit margins.
+Furniture category had decent sales but relatively weaker profitability.
+6. What business problem does your dashboard solve?
+✅ Answer
+
+“The dashboard helps businesses identify:
+
+profitable products,
+strong and weak regions,
+customer purchasing patterns,
+and discount strategies affecting profit.
+
+It supports better decision-making regarding pricing, promotions, and inventory planning.”
+
+7. Why did you use slicers?
+✅ Answer
+
+“I used slicers to make the dashboard interactive so users can dynamically filter data by category, segment, and state. This improves usability and allows faster business analysis.”
+
+8. Why did you use a donut chart?
+✅ Answer
+
+“I used a donut chart to compare customer segment contribution because it visually shows proportional distribution clearly and is easy for business users to interpret.”
+
+9. Why did you use a line chart for monthly sales?
+✅ Answer
+
+“Line charts are best for trend analysis over time. It clearly showed seasonal sales patterns and peak-performing months.”
+
+10. Explain the discount vs profit analysis.
+✅ Answer
+
+“I analyzed how increasing discount percentages affected average profit. The analysis showed that while low discounts still maintained profitability, higher discount levels significantly reduced profit and even caused losses in some cases.”
+
+This is one of your strongest insights.
+
+11. Which category performed best?
+✅ Answer
+
+“Technology category performed best in both sales and profitability, indicating strong customer demand and better margins.”
+
+12. Which category needs improvement?
+✅ Answer
+
+“Furniture category showed relatively lower profitability despite decent sales, indicating possible issues with pricing, discounts, or operational costs.”
+
+Very business-oriented answer.
+
+13. Why is California performing better?
+✅ Answer
+
+“California likely contributes higher sales because of larger customer demand and stronger market presence. It consistently showed high sales as well as strong profitability.”
+
+14. What KPIs did you use?
+✅ Answer
+
+“I used:
+
+Total Sales
+Total Orders
+Profit Margin %
+Total Profit
+
+These KPIs provide a quick overview of overall business performance.”
+
+15. What tools did you use?
+✅ Answer
+
+“I used:
+
+Excel for data cleaning and preprocessing,
+Power BI for dashboard creation and visualization.”
+16. Did you use DAX?
+✅ Answer
+
+“Yes, I used DAX measures for KPIs like:
+
+Total Orders,
+Profit Margin %,
+Total Profit,
+and formatting calculations.”
+17. What challenges did you face?
+✅ Answer
+
+Good question because you ACTUALLY faced real ones.
+
+Say:
+
+“I faced issues with:
+
+data type conversions,
+percentage formatting,
+month sorting,
+and discount column handling in Power BI.
+
+I solved them by correcting data types, using helper columns, and applying proper formatting and sorting techniques.”
+
+This answer sounds REAL.
+
+18. If you improve this dashboard further, what would you add?
+✅ Answer
+
+“I would add:
+
+forecasting analysis,
+customer retention metrics,
+profit forecasting,
+drill-through analysis,
+and geographic map visualizations for regional insights.”
+19. Why is data visualization important?
+✅ Answer
+
+“Visualization simplifies complex data into understandable insights, helping businesses make faster and better decisions.”
+
+20. What did you personally learn from this project?
+✅ Answer
+
+“I improved my understanding of:
+
+business analysis,
+dashboard design,
+data cleaning,
+KPI building,
+DAX measures,
+and converting raw data into actionable insights.”
